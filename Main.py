@@ -26,7 +26,7 @@ class Stack:
     popNode<-self.head
     self.head<-self.head.next
     popNode.next<-None
-    return popNode.data
+    return popNode.data 
 
   def status(self):
     """
