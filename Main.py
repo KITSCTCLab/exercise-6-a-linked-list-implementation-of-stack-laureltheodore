@@ -23,7 +23,8 @@ class Stack:
     """
     It prints all the elements of stack.
     """
-    # Write your code here  
+    # Write your code here 
+      if   = rev
 
 
 # Do not change the following code
