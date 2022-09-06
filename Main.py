@@ -10,6 +10,7 @@ class Stack:
 
   def push(self, data) -> None:
     # Write your code here
+    
 
   def pop(self) -> None:
     # Write your code here
