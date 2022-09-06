@@ -24,7 +24,7 @@ class Stack:
     It prints all the elements of stack.
     """
     # Write your code here 
-      if   = rev
+      if(top = null)
 
 
 # Do not change the following code
