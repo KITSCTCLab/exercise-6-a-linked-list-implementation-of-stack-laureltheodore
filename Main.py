@@ -10,6 +10,13 @@ class Stack:
 
   def push(self, data) -> None:
     # Write your code here
+    if(top==NULL)
+
+cout<<"Stack Underflow"<<endl;
+
+else {
+
+struct Node* temp = top;
     
 
   def pop(self) -> None:
