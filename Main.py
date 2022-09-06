@@ -11,16 +11,14 @@ class Stack:
   def push(self, data) -> None:
     # Write your code here
     if(top==NULL)
-
-cout<<"Stack Underflow"<<endl;
-
-else {
+     cout<<"Stack Underflow"<<endl;
+    else {
 
 struct Node* temp = top;
     
 
   def pop(self) -> None:
-    # Write your code here
+    # Write your code here 
 
   def status(self):
     """
