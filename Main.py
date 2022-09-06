@@ -13,8 +13,7 @@ class Stack:
     if(top==NULL)
      cout<<"Stack Underflow"<<endl;
     else {
-
-struct Node* temp = top;
+         struct Node* temp = top;
     
 
   def pop(self) -> None:
