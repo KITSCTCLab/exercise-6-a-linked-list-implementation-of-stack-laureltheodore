@@ -5,13 +5,13 @@ class Node:
 
 
 class Node:
-  def _init_(self, data):
+  def __init__(self, data):
     self.data = data
     self.next = None
 
 
 class Stack:
-  def _init_(self):
+  def __init__(self):
     self.head = None
 
   def push(self, data) -> None:
